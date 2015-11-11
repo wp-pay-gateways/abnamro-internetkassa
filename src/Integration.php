@@ -1,8 +1,11 @@
 <?php
 
-class Pronamic_WP_Pay_Gateways_AbnAmro_Internetkassa_GatewayIntegration {
+class Pronamic_WP_Pay_Gateways_AbnAmro_Internetkassa_Integration {
 	public function __construct() {
-		$this->id = 'abnamro-internetkassa';
+		$this->id       = 'abnamro-internetkassa';
+		$this->name     = 'ABN AMRO - Internetkassa';
+		$this->url      = 'https://internetkassa.abnamro.nl/';
+		$this->provider = 'abnamro';
 	}
 
 	public function get_config_factory_class() {
