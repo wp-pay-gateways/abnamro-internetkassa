@@ -10,6 +10,6 @@
  */
 class Pronamic_WP_Pay_Gateways_AbnAmro_Internetkassa_ConfigFactory extends Pronamic_WP_Pay_Gateways_Ogone_OrderStandard_ConfigFactory {
 	public function __construct() {
-		parent::__construct( 'Pronamic_WP_Pay_Gateways_AbnAmro_IDealOnlyKassa_Config', 'Pronamic_WP_Pay_Gateways_AbnAmro_IDealOnlyKassa_ConfigTest' );
+		parent::__construct( 'Pronamic_WP_Pay_Gateways_AbnAmro_Internetkassa_Config', 'Pronamic_WP_Pay_Gateways_AbnAmro_Internetkassa_TestConfig' );
 	}
 }
