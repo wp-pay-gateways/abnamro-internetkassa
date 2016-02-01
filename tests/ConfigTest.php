@@ -3,7 +3,7 @@
 /**
  * Title: ABN AMRO - Internetkassa - Config test
  * Description:
- * Copyright: Copyright (c) 2005 - 2014
+ * Copyright: Copyright (c) 2005 - 2016
  * Company: Pronamic
  * @author Remco Tolsma
  * @version 1.0.0
