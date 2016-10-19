@@ -1,6 +1,6 @@
 {
   "name": "ing-ideal-internetkassa",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ABN AMRO - Internetkassa driver for the WordPress payment processing library.",
   "repository": {
     "type": "git",
