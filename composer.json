@@ -1,7 +1,7 @@
 {
 	"name": "wp-pay-gateways/abnamro-internetkassa",
 	"description": "ABN AMRO - iDEAL Only Kassa driver for the WordPress payment processing library.",
-	"keywords": ["wordpress", "wp", "pay", "abn", "amro", "abnamro", "ideal", "kassa", "gateway", "pronamic"],
+	"keywords": ["wordpress", "wp", "pay", "abn", "amro", "abnamro", "ideal", "kassa", "gateway", "pronamic", "deprecated"],
 	"homepage": "http://www.wp-pay.org/gateways/abnamro-internetkassa/",
 	"license": "GPL",
 	"authors": [

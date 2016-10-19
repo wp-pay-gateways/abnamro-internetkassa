@@ -13,7 +13,8 @@
     "ideal",
     "basic",
     "gateway",
-    "pronamic"
+    "pronamic",
+    "deprecated"
   ],
   "author": {
     "name": "Pronamic",
